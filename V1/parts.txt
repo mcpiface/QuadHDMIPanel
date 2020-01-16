@@ -1,0 +1,10 @@
+Partlist
+
+Exported from McPiFace-HDMI-ConnectorPanel-V1.brd at 16/01/2020 00:20
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package  Library  Position (mm)         Orientation
+
